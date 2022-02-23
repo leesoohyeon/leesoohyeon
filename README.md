@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp
 </p>
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesoohyeon)](https://github.com/leesoohyeon/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesoohyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![leesoohyeon's github stats](https://github-readme-stats.vercel.app/api?username=leesoohyeon&show_icons=true)
+[![leesoohyeon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leesoohyeon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/leesoohyeon)
 
 <!--
 **leesoohyeon/leesoohyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
