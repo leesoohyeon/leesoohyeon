@@ -19,7 +19,7 @@
 ![leesoohyeon's github stats](https://github-readme-stats.vercel.app/api?username=leesoohyeon&show_icons=true)
 [![leesoohyeon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leesoohyeon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/leesoohyeon)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehfrhfo402)](https://solved.ac/{ehfrhfo402})
-<img src="http://mazandi.herokuapp.com/api?handle=ehfrhfo402&theme=cold"/>
+<img src="http://mazandi.herokuapp.com/api?handle=ehfrhfo402&theme=default"/>
 <!--
 **leesoohyeon/leesoohyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
